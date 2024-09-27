@@ -30,5 +30,29 @@ To run the notebook, ensure you have the following Python packages installed:
 - **numpy**: For numerical calculations.
 - **matplotlib** and **seaborn**: For data visualization.
 
+# Tableau [**Segmenting customers based on RFM (Recency, Frequency, Monetary) analysis**]
 
-  
+### **RFM Segmentation by Recency, Frequency, and Monetary Value**
+
+1. **Segmenting by Recency**:
+   - Shows how recently customers in each category made a purchase.
+   - For example, **Best Customers** and **Loyal Customers** tend to have more recent purchases, while **Churned Customers** have a high maximum recency value, indicating they haven’t purchased in a long time.
+
+2. **Segmenting by Frequency**:
+   - Depicts how frequently customers in each segment make purchases.
+   - **Best Customers** and **Loyal Customers** show higher frequency of purchases, while **Others** and **At-Risk Customers** have lower frequency.
+
+3. **Segmenting by Monetary Value**:
+   - Reflects the total spending of customers in each segment.
+   - **Best Customers** and **Loyal Customers** contribute more in terms of monetary value, while **Churned Customers** and **Others** spend less overall.
+
+### **Segmenting by Customer Categories**
+This page displays customer segmentation into distinct categories based on RFM analysis. The segments include:
+
+1. **Churned Customers**: 405 customers
+2. **At-Risk Customers**: 670 customers
+3. **Loyal Customers**: 313 customers
+4. **Best Customers**: 447 customers
+5. **Others**: 2,473 customers
+
+The visualization uses a bar or pie chart to display the distribution of customers across these segments. The size of each segment indicates how many customers fall into each category, giving insight into the overall distribution of customer behavior.
