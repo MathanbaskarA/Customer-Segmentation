@@ -55,4 +55,4 @@ This page displays customer segmentation into distinct categories based on RFM a
 4. **Best Customers**: 447 customers
 5. **Others**: 2,473 customers
 
-The visualization uses a bar or pie chart to display the distribution of customers across these segments. The size of each segment indicates how many customers fall into each category, giving insight into the overall distribution of customer behavior.
+The visualization uses a pie chart to display the distribution of customers across these segments. The size of each segment indicates how many customers fall into each category, giving insight into the overall distribution of customer behavior.
