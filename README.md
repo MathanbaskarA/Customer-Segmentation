@@ -47,7 +47,7 @@ To run the notebook, ensure you have the following Python packages installed:
    - **Best Customers** and **Loyal Customers** contribute more in terms of monetary value, while **Churned Customers** and **Others** spend less overall.
 
 ### **Segmenting by Customer Categories**
-This page displays customer segmentation into distinct categories based on RFM analysis. The segments include:
+This customer segmentation into distinct categories based on RFM analysis. The segments include:
 
 1. **Churned Customers**: 405 customers
 2. **At-Risk Customers**: 670 customers
